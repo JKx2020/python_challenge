@@ -3,3 +3,5 @@ This is the very first project I did using Python. No other libraries were used 
 
  1. PyBank - I created a script to do several analyses on profit/loss on a small financial dataset
  2. PyPoll - I created a script to count, and analyze votes in a small election dataset
+
+To run git bash to the location of each PY folder and run in the terminal and type "python main.py"
